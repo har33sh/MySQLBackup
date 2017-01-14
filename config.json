@@ -1,0 +1,18 @@
+
+{
+  "stark_datapool": {
+    "host": "10.129.23.161",
+    "user": "reader",
+    "passwd": "datapool",
+    "database": "datapool",
+    "tables":  ["present_occupancy","occupancy_activity","temperature"]
+  },
+  "windows_machine_datapool": {
+    "host": "10.129.23.161",
+    "user": "reader",
+    "passwd": "datapool",
+    "database": "datapool",
+    "tables":  ["present_occupancy","occupancy_activity","temperature"]
+  }
+
+}
